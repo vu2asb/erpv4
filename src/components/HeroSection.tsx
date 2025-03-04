@@ -21,11 +21,11 @@ const HeroSection = () => {
         navigating and overcoming complex delivery hurdles.
         <br />
         <br />
-        If you\'re ready to seize this opportunity for transformation and
+        If you&apos;re ready to seize this opportunity for transformation and
         progress, I am here to support you every step of the way.
         <br />
         <br />
-        Let\'s work together to unlock your organization's full potential.
+        Let&apos;s work together to unlock your organization&apos;s full potential.
       </h1>
       <div className="sm: mt-6 flex flex-col space-y-2 text-center justify-center md:flex-row gap-2">
         <a href="services" className="sm: w-full bg-slate-100 text-black px-3 py-2 border-solid md:w-[30%] mt-2 lg:w-[25%]">Services</a>

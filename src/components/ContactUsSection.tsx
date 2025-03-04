@@ -158,10 +158,10 @@ export default function ContactUsSection() {
           <h1 className="text-3xl w-10 pl-5 mt-5 mb-5">CONTACT</h1>
           <div className="ml-5 text-[15px]">
             <h1 className="text-[20px] text-[#0099ff]">
-              Let\'s talk about your challenges
+              Let&apos;s talk about your challenges
             </h1>
             <h1 className="text-[16px] text-[#0099ff]">
-              Drop us a line through this form and I\'ll get back to you as soon
+              Drop us a line through this form and I&apos;ll get back to you as soon
               as possible
             </h1>
             <br />

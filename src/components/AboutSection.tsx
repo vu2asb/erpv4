@@ -54,7 +54,7 @@ const AboutSection = () => {
         Non-Tech or Tech, heavily rely on technology platforms as an enabler,
         and they are intimately intertwined. Often, startup founders lack the
         time, resources, and experience to plan and build the necessary
-        technology or to outsource it. That\'s where I come in to assist
+        technology or to outsource it. That&apos;s where I come in to assist
         startups.
       </h2>
       <div>
