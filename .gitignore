@@ -2,7 +2,7 @@
 node_modules
 
 # exclude public/video folder 
-public/video
+/public/video
 
 # dependencies
 # /node_modules
